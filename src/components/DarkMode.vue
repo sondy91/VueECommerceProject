@@ -14,6 +14,8 @@ const toggleDark = useToggle(isDark)
 
 <style scoped>
 .darkmode-container {
+    display: flex;
+    justify-content: right;
     margin: 0.25rem;
 }
 </style>
