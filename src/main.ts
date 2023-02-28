@@ -3,6 +3,7 @@ import { createPinia } from 'pinia'
 
 import App from './App.vue'
 import router from './router'
+import "./index.css";
 import PrimeVue from 'primevue/config';
 
 //PrimeVue components
@@ -12,6 +13,7 @@ import Toast from 'primevue/toast';
 import ToastService from 'primevue/toastservice';
 
 //PrimeVue Themes
+import './assets/app.css';
 import 'primevue/resources/themes/tailwind-light/theme.css';
 import 'primevue/resources/themes/saga-blue/theme.css';
 import 'primevue/resources/primevue.min.css';
