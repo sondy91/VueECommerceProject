@@ -2,7 +2,7 @@
     <div class="stats-container">
         <div class="px-4 py-5 md:px-6 lg:px-8">
             <div class="grid">
-                <div class="col-12 md:col-6 lg:col-3">
+                <div class="col-12 md:col-6 lg:col-3 dark:bg-gray-900">
                     <div class="surface-card shadow-2 p-3 border-round">
                         <div class="flex justify-content-between mb-3">
                             <div>
