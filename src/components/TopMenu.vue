@@ -4,12 +4,6 @@
             <template #start>
                 <img alt="logo" src="https://www.primefaces.org/wp-content/uploads/2020/05/placeholder.png" style="max-height: 40px;" class="mr-2">
             </template>
-            <!-- <template #item="{item}">
-                <router-link :to="item.to" custom v-slot="{href, route, navigate, isActive, isExactActive}">
-                    <i :class="item.icon"></i>
-					<a :href="href" @click="navigate" :class="{'active-link': isActive, 'active-link-exact': isExactActive}">{{item.label}}</a>
-			    </router-link>
-            </template> -->
             <template #end>
                 <DarkMode></DarkMode>
             </template>
