@@ -1,11 +1,12 @@
 <template>
-    <Hero class="mt-8 mb-8"></Hero>
-    <Stats></Stats>
+    <Hero ></Hero>
+    <div>
+        <ProductCard></ProductCard>
+    </div>
 </template>
 <script setup>
 import Hero from '../components/Hero.vue';
-import Card from '../components/Card.vue';
-import Stats from '../components/Stats.vue';
+import ProductCard from "../components/Product-Card.vue";
 </script>
 <style>
 </style>
