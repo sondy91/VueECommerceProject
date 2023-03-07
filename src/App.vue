@@ -11,8 +11,9 @@ const greet = () => {
 
 <template>
   <Toast></Toast>
+  <TopMenu></TopMenu>
   <div class="container">
-    <TopMenu></TopMenu>
+    <router-view></router-view>
   </div>
 </template>
 <style>
