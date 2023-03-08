@@ -1,12 +1,12 @@
 <template>
-    <Hero ></Hero>
     <div>
-        <ProductCard></ProductCard>
+        <NewArrival></NewArrival>
+        <ProductGrid></ProductGrid>
     </div>
 </template>
 <script setup>
-import Hero from '../components/Hero.vue';
-import ProductCard from "../components/Product-Card.vue";
+import NewArrival from '../components/NewArrival.vue';
+import ProductGrid from "../components/ProductGrid.vue";
 </script>
 <style>
 </style>
