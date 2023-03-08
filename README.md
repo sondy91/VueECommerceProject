@@ -6,7 +6,8 @@ This project uses Vue 3 for the frontend framework
 Vite for bundling and packaging
 Pinia for state management
 Vue Router for routing
-Vitest for unit tests
+Vitest for unit tests - todo
+I have also utilized PrimveVue for some nice components for quicker prototyping and not needing to reinvent the wheel on common components but still have the ability to customize as needed!
 
 ## Recommended IDE Setup
 

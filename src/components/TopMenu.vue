@@ -2,7 +2,7 @@
     <div class="menu-container">
         <Menubar :model="menuItems" class="dark:bg-slate-700">
             <template #start>
-                <img alt="logo" src="https://www.primefaces.org/wp-content/uploads/2020/05/placeholder.png" style="max-height: 40px;" class="mr-2">
+                <img alt="logo" src="../assets/logoPhoto.png" style="max-height: 60px;" class="mr-2">
             </template>
             <template #end>
                 <DarkMode></DarkMode>

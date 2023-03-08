@@ -16,9 +16,9 @@ const products = ref();
 const layout = ref('grid');
 
 onMounted(() => {
-    alert('test');
-    productService.value.getProducts().then(data => this.products(data));
-    alert(this.products.value);
+    
+    //productService.value.getProducts().then(data => this.products(data));
+    
 })
 </script>
 <style>
