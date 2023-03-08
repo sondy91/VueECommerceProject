@@ -1,13 +1,13 @@
 # VueFrontEndProject
 
-This template should help get you started developing with Vue 3 in Vite.
-
 This project uses Vue 3 for the frontend framework
 Vite for bundling and packaging
 Pinia for state management
 Vue Router for routing
 Vitest for unit tests - todo
 I have also utilized PrimveVue for some nice components for quicker prototyping and not needing to reinvent the wheel on common components but still have the ability to customize as needed!
+
+Fun Fact: the product images, logo, and product descriptions are all AI generated, one for fun and to involve my interest in AI/ML in general but also to quickly prototype save time on content instead of using lorum ipsem to give a better real effect on the site
 
 ## Recommended IDE Setup
 
