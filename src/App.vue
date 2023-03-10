@@ -23,5 +23,6 @@ const greet = () => {
 }
 html.dark {
   color-scheme: dark;
+  background-color: rgb(51 65 85);
 }
 </style>
