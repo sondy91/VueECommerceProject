@@ -1,13 +1,8 @@
 <template>
-	<div class="card">
-		<p>Test Products</p>
-	</div>
+	<UnderConstruction></UnderConstruction>
 </template>
 <script setup>
-
+import UnderConstruction from "../components/UnderConstruction.vue";
 </script>
 <style scoped>
-.card {
-	background: #ffffff;
-}
 </style>

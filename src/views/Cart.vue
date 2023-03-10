@@ -1,5 +1,11 @@
+
+import type UnderConstructionVue from '@/components/UnderConstruction.vue';
+
 <template>
-    <div>Cart</div>
+    <UnderConstruction></UnderConstruction>>
 </template>
+<script setup>
+import UnderConstruction from "../components/UnderConstruction.vue";
+</script>
 <style>
 </style>
